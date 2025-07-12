@@ -1,5 +1,5 @@
 # operator-tutorial
-// TODO(user): Add simple overview of use/purpose
+Simple operator that manages bucket creation for new deployments.
 
 ## Description
 // TODO(user): An in-depth paragraph about your project and overview of use
