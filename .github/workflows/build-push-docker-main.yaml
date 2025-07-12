@@ -6,9 +6,9 @@ on:
       - main
 
 env:
-  IMAGE_NAME: my-go-service
-  REGION: us-central1
-  REPO_NAME: go-docker-repo
+  IMAGE_NAME: operator
+  REGION: us-central2
+  REPO_NAME: operator-tutorial
 
 jobs:
   build-and-push:
